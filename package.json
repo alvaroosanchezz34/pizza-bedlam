@@ -1,0 +1,15 @@
+{
+    "name": "pizza-bedlam",
+    "version": "1.0.0",
+    "description": "Technical test: pizza pricing and ticket generator",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "node src/app.js",
+        "test": "mocha"
+    },
+    "devDependencies": {
+        "mocha": "^10.0.0"
+    },
+    "author": "",
+    "license": "MIT"
+}
